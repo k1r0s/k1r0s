@@ -6,4 +6,4 @@
 - I can help with other programming languages such as Java, Python, PHP and C.
 - I also have a life. I enjoy sports, music and nature.
 - I speak Spanish, Catalan, English, French и чуть чуть по-русский.
-- ~~Currently looking for freelance projects~~
+- Currently looking for freelance projects.
